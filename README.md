@@ -1,3 +1,3 @@
 TalkToManuka Landing Page
 
-This project was supervised by Raveen Savinda Rathnayake.
+This project was taken over by Senthuran Ambalavanar.
