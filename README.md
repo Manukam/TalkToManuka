@@ -6,4 +6,4 @@ This repository contains the landing page information of TalkToManuka Website
 Feel Free to send your suggestions to Manuka on +94773060760
 This project was supervised by His excellency Manuka Bro.
 
-GitHub is awesome <3
+This is a typed content
